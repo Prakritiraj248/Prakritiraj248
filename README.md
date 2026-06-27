@@ -11,7 +11,6 @@ I’m currently working on Building projects in Big Data, Python, Apache Spark ,
 
 
 
----
-[![](https://komarev.com/ghpvc/?username=Prakritiraj248&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
