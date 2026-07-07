@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Building projects in Big Data, Python, Apache Spark ,Machine Learning, with a focus on distributed systems and workflow abstraction.<br>I’m currently learning  and improving myself by building more robust solutions and working on streaming data pipelines to solve real-world problems. Alongside this, I’m deepening my knowledge of high-level abstractions in Spark.<br>
+I’m currently working on Building projects in Big Data, Python,Machine Learning, with a focus on distributed systems and workflow abstraction.<br>I’m currently learning  and improving myself by building more robust solutions and working on streaming data pipelines to solve real-world problems. Alongside this, I’m deepening my knowledge of high-level abstractions in Spark.<br>
 
 
 ## 🌐 Socials:
